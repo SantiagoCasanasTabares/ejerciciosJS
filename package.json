@@ -1,0 +1,11 @@
+{
+  "name": "proyecto_mande",
+  "version": "1.0.0",
+  "description": "proyecto final bd",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
